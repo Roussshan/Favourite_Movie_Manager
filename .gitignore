@@ -12,6 +12,7 @@ build/
 .venv/
 venv/
 env/
+ENV/
 
 # Data file created at runtime
 movies.json
